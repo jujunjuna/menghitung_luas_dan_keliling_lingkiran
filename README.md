@@ -9,3 +9,6 @@ menghitung keliling lingkaran
 rumus = 2 x π x r
 luas lingkaran = 2 x 22/7 x 7
                = 44
+
+
+![Gambar](screenshot/ss10.png)
